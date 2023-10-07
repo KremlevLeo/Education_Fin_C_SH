@@ -4,9 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        MainManu();
+        MainMenu();
     }
-    private static bool MainManu()
+    private static bool MainMenu()
     {
         Console.Clear();
         Console.WriteLine("1) Natural Numbers;");
